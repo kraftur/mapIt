@@ -4,6 +4,7 @@
 
 import webbrowser
 import sys
+import pyperclip
 
 
 if len(sys.argv) > 1:
